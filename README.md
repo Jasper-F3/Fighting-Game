@@ -1,4 +1,4 @@
-# Fighting Game
+# Fighting Game (not finished)
 
 - ❓Why? Because it's just a simple project to learn JavaScript and HTML, and after the project teste my own skills
 
